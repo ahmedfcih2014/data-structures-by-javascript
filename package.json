@@ -1,0 +1,12 @@
+{
+  "name": "js-data-structure",
+  "version": "1.0.0",
+  "description": "this project to implement and test some data strucutres using JavaScript as a PL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
